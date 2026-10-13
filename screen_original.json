@@ -1,0 +1,404 @@
+{
+  "screenshot": {
+    "name": "projects/5650975493986281104/files/10393336774419854532",
+    "downloadUrl": "https://lh3.googleusercontent.com/aida/AEtjO1WaxhGx3GPzw9WkKgMH2B84TxncfDaH1jbkPx4r2MAvvSIc83lL1a4tkJy2VWBAmfXH0ioTkKnKIl8s4B28iqIVc9D-D44lFK1PwRyxwbSZTUxxgAzIDAkIChT0NKj-TaNLiWlbpn4UksnR7U6NR1_pysGwYIp9d4xNSzUSABXhU1HwFkAScyf4CR0XAor0_wUzBN2aGtWadBOzU_YzZeYtwFo7QStefUKP4EbbciU"
+  },
+  "htmlCode": {
+    "name": "projects/5650975493986281104/files/329909463871058111",
+    "downloadUrl": "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJwEgxzdGl0Y2hfZmlsZXMaYAosc3RpdGNoX2h0bWxfMDAwNjViZjg4NTExMjBlYjAyZDNmZDFkOTAxODA5NWISChIGEKf_oJZMGAGSASMKCnByb2plY3RfaWQSFUITNTY1MDk3NTQ5Mzk4NjI4MTEwNA&filename=&opi=89354086",
+    "mimeType": "text/html"
+  },
+  "id": "ae8a8cc36d1540bdb5a766c4568fb1cf",
+  "generatedBy": "figaro_agent",
+  "width": "2560",
+  "height": "8922",
+  "title": "CarShop - Trang chủ Mua Bán Ô Tô Cao Cấp",
+  "prompt": "Thiết kế hoàn chỉnh giao diện Desktop Landing Page cho CarShop - Nền tảng mua sắm ô tô thông minh và cao cấp hàng đầu Việt Nam.\n\nGiao diện bao gồm các khối nội dung bài bản, thẩm mỹ cao cấp:\n1. Navigation Bar (TopNavBar): Logo CarShop với biểu tượng động cơ/tốc độ hiện đại, menu liên kết (Mua xe, Xe lướt cao cấp, Bán xe/Thu cũ đổi mới, Bảng giá & Ưu đãi, Dịch vụ tài chính), nút hotline 1900 8888 và nút CTA 'Đăng tin / Đặt lịch lái thử'.\n2. Hero Banner hoành tráng: Tiêu đề cuốn hút 'Khám Phá Hành Trình Đẳng Cấp Cùng Chiếc Xe Ước Mơ', mô tả 'Hơn 15,000+ xe đã kiểm định chất lượng 176 hạng mục độc quyền, bảo hành đến 3 năm và hỗ trợ vay 85% giá trị xe'. Hình ảnh xe sang (Porsche Taycan / Audi e-tron / Mercedes EQS phong cách tương lai).\n3. Hộp tìm kiếm và lọc xe thông minh (Smart Search Widget) gắn liền ngay dưới Hero:\n   - Các tab lựa chọn nhanh: 'Xe mới', 'Xe đã qua sử dụng (Lướt)', 'Xe điện & Hybrid'.\n   - Bộ lọc tiện ích: Chọn Hãng (Mercedes-Benz, BMW, Porsche, Audi, Lexus, VinFast), Dòng xe (Sedan, SUV 7 chỗ, Crossover, Coupe), Khoảng giá (Dưới 800 triệu, 800tr - 1.5 tỷ, 1.5 - 3 tỷ, Trên 3 tỷ), Năm sản xuất.\n   - Nút hành động 'Tìm Kiếm (3,420 xe sẵn sàng)'.\n4. Số liệu ấn tượng (Key Metrics): 15,000+ Xe sẵn giao ngay, 99.4% Khách hàng hài lòng, 176 Hạng mục kiểm định chuẩn quốc tế, 48 Giờ hoàn tất thủ tục giao xe tận nhà.\n5. Danh mục phân khúc xe phổ biến (Car Categories): Card ảnh icon trực quan các dòng xe: Sedan sang trọng, SUV gia đình đa dụng, Crossover thể thao, Xe điện xanh EV thông minh, Siêu xe hiệu năng cao.\n6. Bộ sưu tập xe nổi bật (Featured Vehicles Showcase): Lưới thẻ xe chi tiết và bắt mắt (Mercedes GLC 300 4MATIC, Porsche Macan GTS, BMW 530i M Sport, VinFast VF9 Plus, Audi Q7 Quattro):\n   - Thẻ xe gồm: Tag tình trạng ('Sẵn xe', 'Ưu đãi 100% trước bạ', 'Xe lướt 2023 - 8,000 km'), hình ảnh xe rõ nét góc chụp 3/4 thể thao, tên phiên bản, năm sản xuất, thông số kỹ thuật (Động cơ/Dung lượng pin, Hộp số, ODO, Mức tiêu thụ/Quãng đường), Giá bán niêm yết & Giá trả góp/tháng hấp dẫn (VD: Chỉ từ 18.5 tr/tháng), nút 'Lái Thử' và 'Xem Chi Tiết'.\n7. Vì sao chọn CarShop (Dịch vụ & Cam kết độc quyền):\n   - Kiểm định minh bạch 176 điểm kỹ thuật (Không đâm đụng, không ngập nước, keo chỉ nguyên bản).\n   - Bảo hành toàn diện 24 tháng hoặc 30.000 km.\n   - Bao test xe miễn phí & Đổi trả linh hoạt trong 7 ngày nếu không hài lòng.\n   - Giải pháp tài chính: Hỗ trợ vay ngân hàng lãi suất chỉ từ 6.9%/năm, giải ngân trong ngày.\n8. Công cụ ước tính tài chính trả góp linh hoạt (Loan Calculator Simulator): Cho phép kéo thanh trượt chọn giá xe, tỷ lệ trả trước (20% - 70%), thời hạn vay (12 - 84 tháng), hiển thị ngay số tiền trả góp hàng tháng dự kiến cùng nút 'Nhận phê duyệt hồ sơ trong 15 phút'.\n9. Đánh giá từ khách hàng đã mua xe (Testimonials & Social Proof) kèm hình ảnh bàn giao xe thật.\n10. Footer (Footer Component): Đầy đủ thông tin hệ thống Showroom Hà Nội, Đà Nẵng, TP.HCM, chứng nhận bộ công thương, hotline 24/7, chính sách bảo hành và đăng ký nhận bản tin khuyến mãi.",
+  "name": "projects/5650975493986281104/screens/ae8a8cc36d1540bdb5a766c4568fb1cf",
+  "theme": {
+    "colorMode": "DARK",
+    "font": "OUTFIT",
+    "roundness": "ROUND_EIGHT",
+    "customColor": "#0066ff",
+    "headlineFont": "OUTFIT",
+    "bodyFont": "OUTFIT",
+    "labelFont": "OUTFIT",
+    "namedColors": {
+      "surface": "#0a122a",
+      "on_secondary": "#002e69",
+      "on_tertiary_fixed": "#0d1c2d",
+      "surface_tint": "#b3c5ff",
+      "surface_container_low": "#131a33",
+      "secondary": "#adc6ff",
+      "surface_container_lowest": "#050d25",
+      "on_tertiary_container": "#f6f8ff",
+      "surface_bright": "#313852",
+      "on_surface_variant": "#c2c6d8",
+      "tertiary_fixed": "#d4e4fa",
+      "tertiary_fixed_dim": "#b9c8de",
+      "on_background": "#dbe1ff",
+      "error_container": "#93000a",
+      "on_surface": "#dbe1ff",
+      "secondary_container": "#006be3",
+      "surface_container_high": "#212942",
+      "on_secondary_fixed": "#001a41",
+      "on_primary_container": "#f8f7ff",
+      "tertiary": "#b9c8de",
+      "on_primary_fixed_variant": "#003fa4",
+      "surface_container_highest": "#2c344d",
+      "inverse_on_surface": "#282f49",
+      "primary_fixed_dim": "#b3c5ff",
+      "on_secondary_container": "#f2f4ff",
+      "secondary_fixed": "#d8e2ff",
+      "outline": "#8c90a1",
+      "primary": "#b3c5ff",
+      "on_primary_fixed": "#001849",
+      "outline_variant": "#424656",
+      "secondary_fixed_dim": "#adc6ff",
+      "on_tertiary": "#233143",
+      "surface_container": "#171e37",
+      "surface_variant": "#2c344d",
+      "surface_dim": "#0a122a",
+      "error": "#ffb4ab",
+      "inverse_primary": "#0054d6",
+      "inverse_surface": "#dbe1ff",
+      "on_error": "#690005",
+      "on_secondary_fixed_variant": "#004494",
+      "primary_fixed": "#dae1ff",
+      "on_tertiary_fixed_variant": "#39485a",
+      "background": "#0a122a",
+      "primary_container": "#0066ff",
+      "tertiary_container": "#647387",
+      "on_error_container": "#ffdad6",
+      "on_primary": "#002b75"
+    },
+    "colorVariant": "FIDELITY",
+    "overridePrimaryColor": "#0066ff",
+    "overrideSecondaryColor": "#3a86ff",
+    "overrideTertiaryColor": "#94a3b8",
+    "overrideNeutralColor": "#0b132b",
+    "spacingScale": 2,
+    "typography": {
+      "label-badge": {
+        "fontFamily": "Outfit",
+        "fontSize": "11px",
+        "fontWeight": "700",
+        "lineHeight": "14px",
+        "letterSpacing": "0.08em"
+      },
+      "headline-md": {
+        "fontFamily": "Outfit",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.01em"
+      },
+      "headline-lg": {
+        "fontFamily": "Outfit",
+        "fontSize": "32px",
+        "fontWeight": "600",
+        "lineHeight": "40px",
+        "letterSpacing": "-0.01em"
+      },
+      "headline-sm": {
+        "fontFamily": "Outfit",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "0em"
+      },
+      "label-numeric-metric": {
+        "fontFamily": "Outfit",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.02em"
+      },
+      "body-md": {
+        "fontFamily": "Outfit",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "0.01em"
+      },
+      "body-sm": {
+        "fontFamily": "Outfit",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "0.01em"
+      },
+      "headline-xl": {
+        "fontFamily": "Outfit",
+        "fontSize": "40px",
+        "fontWeight": "700",
+        "lineHeight": "48px",
+        "letterSpacing": "-0.02em"
+      },
+      "body-lg": {
+        "fontFamily": "Outfit",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "0em"
+      },
+      "body-xl": {
+        "fontFamily": "Outfit",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28px",
+        "letterSpacing": "0em"
+      },
+      "display-hero-mobile": {
+        "fontFamily": "Outfit",
+        "fontSize": "38px",
+        "fontWeight": "800",
+        "lineHeight": "44px",
+        "letterSpacing": "-0.02em"
+      },
+      "display-hero": {
+        "fontFamily": "Outfit",
+        "fontSize": "56px",
+        "fontWeight": "800",
+        "lineHeight": "64px",
+        "letterSpacing": "-0.03em"
+      },
+      "headline-xl-mobile": {
+        "fontFamily": "Outfit",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "lineHeight": "38px",
+        "letterSpacing": "-0.02em"
+      },
+      "label-btn": {
+        "fontFamily": "Outfit",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "lineHeight": "20px",
+        "letterSpacing": "0.03em"
+      },
+      "headline-lg-mobile": {
+        "fontFamily": "Outfit",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.01em"
+      }
+    },
+    "spacing": {
+      "gutter-mobile": "0.75rem",
+      "gutter": "1.5rem",
+      "space-xl": "2.5rem",
+      "space-xs": "0.25rem",
+      "space-md": "1rem",
+      "space-sm": "0.5rem",
+      "space-lg": "1.5rem",
+      "margin-mobile": "1rem",
+      "margin": "3rem"
+    },
+    "headlineFontFamily": "Outfit",
+    "bodyFontFamily": "Outfit",
+    "labelFontFamily": "Outfit"
+  },
+  "deviceType": "DESKTOP",
+  "screenType": "DESIGN",
+  "screenMetadata": {
+    "agentType": "PRO_AGENT",
+    "status": "COMPLETE",
+    "displayMode": "HTML"
+  },
+  "designSystem": {
+    "name": "assets/0aa13fff05b24883ad9737179e3235b3",
+    "designSystem": {
+      "displayName": "AeroShowroom Velocity",
+      "styleGuidelines": "## Brand & Style\n\n### Brand Personality & Core Atmosphere\nThis design system sets the standard for a digital luxury automotive showroom. The personality merges bespoke precision engineering, dynamic speed, and authoritative trust. It balances the timeless luxury of heritage coachbuilders with the cutting-edge tech of next-generation electric and autonomous vehicles.\n\n### Target Audience & Emotional Impact\nDesigned for high-intent car buyers, automotive collectors, and discerning drivers who expect high precision, frictionless purchasing flows, and total transparency. The visual environment evokes confidence, momentum, and refined prestige, giving users the sensation of walking through an architectural flagship showroom illuminated by controlled studio lighting.\n\n### Visual Style Movement: Precision Glass & High-Contrast Tech\nThe visual language fuses **Precision Glassmorphism** with **Technical Minimalism**:\n- **Layered Frosted Glass:** Translucent cockpit overlays, sub-surface blurring, and delicate interior ambient lighting.\n- **Razor-Edge Outlines:** 1px micro-borders finished with directional metallic gradients to mimic automotive aluminum and carbon seams.\n- **Dynamic Structural Framing:** High-contrast surfaces paired with deep aerodynamic negative space, evoking automotive wind tunnels and sculpted sheet metal.\n\n## Layout & Spacing\n\n### Architectural Grid Philosophy\nThe platform utilizes a structured 12-column fluid grid system on desktop that reflows to an 8-column layout on tablet and a 4-column column layout on mobile devices. Layouts prioritize generous lateral margins to present vehicle silhouettes with gallery-grade composure.\n\n### Responsive Breakpoints & Reflow Mechanics\n- **Desktop (1280px and above):** 12 columns, `1.5rem` gutters, `3rem` margins. Three-column vehicle showcase grids, persistent sticky configuration sidebars, and dual-pane vehicle comparative analytics.\n- **Tablet (768px – 1279px):** 8 columns, `1rem` gutters, `2rem` margins. Two-column inventory cards with collapsable horizontal parameter carousels.\n- **Mobile (320px – 767px):** 4 columns, `0.75rem` gutters, `1rem` margins. Single-card focal feeds with anchored, bottom-docked quick-action trays.\n\n### Spatial Rhythm Principles\n- Component internal paddings rely strictly on predictable increments: `space-sm` (8px) for micro badges, `space-md` (16px) for form fields and list items, and `space-lg` (24px) for vehicle card enclosures.\n- Section intervals step up to `space-xl` (40px) or `3rem` to separate structural modules (e.g., Performance Specs from Trims & Options), preventing visual clutter.\n\n## Elevation & Depth\n\n### Atmospheric Glassmorphism & Z-Axis Stratification\nDepth is communicated through semi-transparent physical tiers, metallic back-surface diffusion, and directional rim lighting rather than standard murky black drop shadows.\n\n- **Base Layer (Ground - z0):** Deep Obsidian (`#0B132B`) solid surface featuring an ultra-subtle radial gradient tinted with Electric Cobalt at `12%` opacity behind the primary vehicle hero presentation.\n- **Showcase Cards & Structural Tiers (z1):** Background color of `#1C2541` at `75%` opacity, paired with an extensive backdrop blur of `24px` and a uniform `1px` perimeter stroke (`#94A3B8` at `15%` opacity). Shadows are soft and diffused: `0 12px 32px -4px rgba(3, 7, 18, 0.45)`.\n- **Floating Controls, Modals & Navigation Headers (z2):** Background color of `#0B132B` at `80%` opacity, `32px` backdrop blur, with an accented top-edge highlight stroke (`linear-gradient(90deg, rgba(58, 134, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%)`).\n- **Interactive Focus & Active State Aura (z-active):** Electric Cobalt photon glow: `0 0 24px 0 rgba(0, 102, 255, 0.35)`. Hovering vehicle showcase cards induces an ambient lift: the bottom shadow increases to `0 20px 40px -8px rgba(0, 102, 255, 0.2)` while the border increases to `40%` opacity.\n\n## Components\n\n### 1. Vehicle Showcase Cards (The Core Showroom Tile)\n- **Container:** `rounded-xl` (24px) with glassmorphism surface (`rgba(28, 37, 65, 0.7)`), backdrop-filter `blur(20px)`, and `1px` titanium border (`rgba(148, 163, 184, 0.2)`).\n- **Header Structure:** Model name in Pure Titanium `headline-sm`, subtitle/trim in Brushed Platinum `body-sm`. Top-right corner anchors floating fuel/EV badge.\n- **Imagery:** Aspect ratio 16:9 vehicle angle with transparent stage shadow. Hover activates a smooth 1.04x scale transition over 400ms ease-out.\n- **Spec Telemetry Strip:** 3-column micro-grid showing Acceleration (e.g., \"3.4s\"), Top Speed (\"260 km/h\"), and Powertrain (\"AWD EV\") rendered in `label-numeric-metric` with `body-sm` muted labels.\n- **Footer Section:** Primary price in Pure Titanium `headline-md` paired with monthly financing calculation in `body-sm`. Right side features primary \"Inspect Vehicle\" icon-button.\n\n### 2. Buttons & Drivers\n- **Primary Kinetic CTA:** Electric Cobalt background (`#0066FF`), Pure Titanium text, `rounded-md` (8px), padding `12px 24px`. Hover triggers transition to Hyperion Neon Blue (`#3A86FF`) accompanied by an outer photonic glow `0 0 20px rgba(0, 102, 255, 0.4)`.\n- **Secondary Glass CTA:** Translucent base (`rgba(255, 255, 255, 0.05)`), `1px` border (`rgba(255, 255, 255, 0.2)`), Pure Titanium text. Hover transitions to `rgba(255, 255, 255, 0.12)` with border tint shift to Neon Blue.\n- **Destructive / Cancellation:** Transparent base with hairline Crimson outline (`rgba(239, 68, 68, 0.4)`), shifting to solid Crimson wash on activation.\n\n### 3. Badges & Chips\n- **EV & Certified Badges:** Pill-shaped (`rounded-full`), padding `4px 10px`, typography `label-badge`. Green EV badge uses translucent base (`rgba(16, 185, 129, 0.15)`) with pure Emerald text and `1px` matching border.\n- **Filter Chips:** Pill shape with `#1C2541` surface, `1px` stroke `#2A3656`. Active state shifts surface to Electric Cobalt (`#0066FF`) with Titanium typography.\n\n### 4. Input Fields & Search Bars\n- **Cockpit Input Frame:** Darkened base (`rgba(11, 19, 43, 0.85)`), `1px` border (`#2A3656`), `rounded-md` (8px), padding `12px 16px`. Placeholder text in Brushed Platinum (`#94A3B8`).\n- **Active / Focused States:** Border shifts to pure Electric Cobalt with an exterior focus ring (`0 0 0 2px rgba(0, 102, 255, 0.25)`).\n- **Search Header Bar:** Integrated search incorporating multi-parameter dropdowns (Make, Model, Price Range) styled as a single continuous glass deck with hairline interior vertical dividers.\n\n### 5. Selection Controls (Checkboxes & Radios)\n- **Checkboxes:** Square with `rounded-sm` (4px), base `#1C2541`, `1px` border `#475569`. Selected state fills with `#0066FF`, showcasing an angled titanium checkmark icon.\n- **Radio Buttons:** Concentric circular ring with smooth animated interior cobalt bead on activation.\n\n### 6. Specialized Automotive Modules\n- **Interactive 360 Exterior Viewport:** Glass-framed viewer with floating bottom scrub controller, active angle indicator pills, and full-screen camera expansion CTA.\n- **Finance Calculator Slider:** Custom track using a 4px brushed slate rail, filled progress span in Electric Cobalt, and a circular metallic chrome grab-handle with an energetic blue core.",
+      "theme": {
+        "colorMode": "DARK",
+        "font": "OUTFIT",
+        "roundness": "ROUND_EIGHT",
+        "customColor": "#0066ff",
+        "headlineFont": "OUTFIT",
+        "bodyFont": "OUTFIT",
+        "labelFont": "OUTFIT",
+        "namedColors": {
+          "secondary": "#adc6ff",
+          "on_surface": "#dbe1ff",
+          "secondary_fixed_dim": "#adc6ff",
+          "on_secondary_fixed": "#001a41",
+          "surface_container_low": "#131a33",
+          "on_tertiary_fixed": "#0d1c2d",
+          "on_secondary_container": "#f2f4ff",
+          "tertiary_fixed_dim": "#b9c8de",
+          "on_error": "#690005",
+          "on_tertiary_container": "#f6f8ff",
+          "surface_container_highest": "#2c344d",
+          "on_surface_variant": "#c2c6d8",
+          "on_background": "#dbe1ff",
+          "outline": "#8c90a1",
+          "error_container": "#93000a",
+          "on_tertiary_fixed_variant": "#39485a",
+          "primary": "#b3c5ff",
+          "on_primary_container": "#f8f7ff",
+          "tertiary_container": "#647387",
+          "inverse_primary": "#0054d6",
+          "on_error_container": "#ffdad6",
+          "surface_variant": "#2c344d",
+          "tertiary": "#b9c8de",
+          "primary_fixed_dim": "#b3c5ff",
+          "outline_variant": "#424656",
+          "surface_container": "#171e37",
+          "on_primary_fixed_variant": "#003fa4",
+          "on_primary": "#002b75",
+          "secondary_fixed": "#d8e2ff",
+          "background": "#0a122a",
+          "on_secondary": "#002e69",
+          "surface": "#0a122a",
+          "error": "#ffb4ab",
+          "surface_container_high": "#212942",
+          "surface_tint": "#b3c5ff",
+          "primary_fixed": "#dae1ff",
+          "secondary_container": "#006be3",
+          "on_secondary_fixed_variant": "#004494",
+          "on_primary_fixed": "#001849",
+          "inverse_on_surface": "#282f49",
+          "tertiary_fixed": "#d4e4fa",
+          "surface_container_lowest": "#050d25",
+          "primary_container": "#0066ff",
+          "surface_dim": "#0a122a",
+          "surface_bright": "#313852",
+          "on_tertiary": "#233143",
+          "inverse_surface": "#dbe1ff"
+        },
+        "designMd": "---\nname: AeroShowroom Velocity\ncolors:\n  surface: '#0a122a'\n  surface-dim: '#0a122a'\n  surface-bright: '#313852'\n  surface-container-lowest: '#050d25'\n  surface-container-low: '#131a33'\n  surface-container: '#171e37'\n  surface-container-high: '#212942'\n  surface-container-highest: '#2c344d'\n  on-surface: '#dbe1ff'\n  on-surface-variant: '#c2c6d8'\n  inverse-surface: '#dbe1ff'\n  inverse-on-surface: '#282f49'\n  outline: '#8c90a1'\n  outline-variant: '#424656'\n  surface-tint: '#b3c5ff'\n  primary: '#b3c5ff'\n  on-primary: '#002b75'\n  primary-container: '#0066ff'\n  on-primary-container: '#f8f7ff'\n  inverse-primary: '#0054d6'\n  secondary: '#adc6ff'\n  on-secondary: '#002e69'\n  secondary-container: '#006be3'\n  on-secondary-container: '#f2f4ff'\n  tertiary: '#b9c8de'\n  on-tertiary: '#233143'\n  tertiary-container: '#647387'\n  on-tertiary-container: '#f6f8ff'\n  error: '#ffb4ab'\n  on-error: '#690005'\n  error-container: '#93000a'\n  on-error-container: '#ffdad6'\n  primary-fixed: '#dae1ff'\n  primary-fixed-dim: '#b3c5ff'\n  on-primary-fixed: '#001849'\n  on-primary-fixed-variant: '#003fa4'\n  secondary-fixed: '#d8e2ff'\n  secondary-fixed-dim: '#adc6ff'\n  on-secondary-fixed: '#001a41'\n  on-secondary-fixed-variant: '#004494'\n  tertiary-fixed: '#d4e4fa'\n  tertiary-fixed-dim: '#b9c8de'\n  on-tertiary-fixed: '#0d1c2d'\n  on-tertiary-fixed-variant: '#39485a'\n  background: '#0a122a'\n  on-background: '#dbe1ff'\n  surface-variant: '#2c344d'\ntypography:\n  display-hero:\n    fontFamily: Outfit\n    fontSize: 56px\n    fontWeight: '800'\n    lineHeight: 64px\n    letterSpacing: -0.03em\n  display-hero-mobile:\n    fontFamily: Outfit\n    fontSize: 38px\n    fontWeight: '800'\n    lineHeight: 44px\n    letterSpacing: -0.02em\n  headline-xl:\n    fontFamily: Outfit\n    fontSize: 40px\n    fontWeight: '700'\n    lineHeight: 48px\n    letterSpacing: -0.02em\n  headline-xl-mobile:\n    fontFamily: Outfit\n    fontSize: 30px\n    fontWeight: '700'\n    lineHeight: 38px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Outfit\n    fontSize: 32px\n    fontWeight: '600'\n    lineHeight: 40px\n    letterSpacing: -0.01em\n  headline-lg-mobile:\n    fontFamily: Outfit\n    fontSize: 24px\n    fontWeight: '600'\n    lineHeight: 32px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Outfit\n    fontSize: 24px\n    fontWeight: '600'\n    lineHeight: 32px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Outfit\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 28px\n    letterSpacing: 0em\n  body-xl:\n    fontFamily: Outfit\n    fontSize: 18px\n    fontWeight: '400'\n    lineHeight: 28px\n    letterSpacing: 0em\n  body-lg:\n    fontFamily: Outfit\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 24px\n    letterSpacing: 0em\n  body-md:\n    fontFamily: Outfit\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 20px\n    letterSpacing: 0.01em\n  body-sm:\n    fontFamily: Outfit\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 16px\n    letterSpacing: 0.01em\n  label-numeric-metric:\n    fontFamily: Outfit\n    fontSize: 28px\n    fontWeight: '700'\n    lineHeight: 32px\n    letterSpacing: -0.02em\n  label-badge:\n    fontFamily: Outfit\n    fontSize: 11px\n    fontWeight: '700'\n    lineHeight: 14px\n    letterSpacing: 0.08em\n  label-btn:\n    fontFamily: Outfit\n    fontSize: 14px\n    fontWeight: '600'\n    lineHeight: 20px\n    letterSpacing: 0.03em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  gutter: 1.5rem\n  gutter-mobile: 0.75rem\n  margin: 3rem\n  margin-mobile: 1rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n---\n\n## Brand & Style\n\n### Brand Personality & Core Atmosphere\nThis design system sets the standard for a digital luxury automotive showroom. The personality merges bespoke precision engineering, dynamic speed, and authoritative trust. It balances the timeless luxury of heritage coachbuilders with the cutting-edge tech of next-generation electric and autonomous vehicles.\n\n### Target Audience & Emotional Impact\nDesigned for high-intent car buyers, automotive collectors, and discerning drivers who expect high precision, frictionless purchasing flows, and total transparency. The visual environment evokes confidence, momentum, and refined prestige, giving users the sensation of walking through an architectural flagship showroom illuminated by controlled studio lighting.\n\n### Visual Style Movement: Precision Glass & High-Contrast Tech\nThe visual language fuses **Precision Glassmorphism** with **Technical Minimalism**:\n- **Layered Frosted Glass:** Translucent cockpit overlays, sub-surface blurring, and delicate interior ambient lighting.\n- **Razor-Edge Outlines:** 1px micro-borders finished with directional metallic gradients to mimic automotive aluminum and carbon seams.\n- **Dynamic Structural Framing:** High-contrast surfaces paired with deep aerodynamic negative space, evoking automotive wind tunnels and sculpted sheet metal.\n\n## Colors\n\n### Color Strategy & Palette\nThe system utilizes an architectural dark theme by default, anchoring vehicle photography against deep, immersive chassis tones while highlighting specs and interactive triggers with pure cobalt photonics.\n\n- **Primary Canvas & Chassis Tiers:**\n  - Deep Obsidian (`#0B132B`): Primary foundation and full-bleed backdrop.\n  - Midnight Cockpit (`#1C2541`): Elevated surface layers, drawer containers, and vehicle card beds.\n  - Aero Navy (`#2A3656`): Hover tiers, borders, and interactive card partitions.\n- **Kinetic Accents (Photonics):**\n  - Electric Cobalt (`#0066FF`): Primary actions, active drive modes, key telemetry, and primary badges.\n  - Hyperion Neon Blue (`#3A86FF`): Hover energy, glowing indicators, secondary CTAs, and active toggles.\n- **Metallic & Surface Neutrals:**\n  - Pure Titanium (`#FFFFFF`): High-emphasis technical metrics, vehicle naming, and primary prices.\n  - Liquid Chrome (`#E2E8F0`): Body reading layers and prominent label copy.\n  - Brushed Platinum (`#94A3B8`): Secondary telemetry labels, inactive states, unit notations, and structural dividers.\n  - Stealth Slate (`#475569`): Low-emphasis metadata, disabled elements, and subtle grid lines.\n- **Functional Semantics:**\n  - Critical Alert (`#EF4444`): Immediate engine warnings, price drops, and low inventory notices.\n  - High Efficiency / EV Status (`#10B981`): Battery range readiness, certified inspection approvals, and verified clean titles.\n\n## Typography\n\n### Character & Hierarchical Structure\n**Outfit** serves as the unified typographic engine across all applications. Its geometric architecture, open curves, and clean apertures communicate forward motion, aerodynamic purity, and mechanical balance.\n\n- **Display & Headlines:** Set with tighter tracking (`-0.02em` to `-0.03em`) and heavy weights (`700`, `800`) to present vehicle model monikers with authoritative presence.\n- **Body Elements:** Balanced regular weights (`400`) ensure clarity for vehicle option packages, technical notes, and legal contract terms.\n- **Spec Data & Telemetry:** Metric numerals (0-100 km/h, kW, HP, Torque) are presented using `label-numeric-metric` with tabular figures enabled (`font-variant-numeric: tabular-nums`) to prevent shifting layouts in comparative tables.\n- **Technical Badges:** Uppercase micro-type (`label-badge`) rendered with widened letter-spacing (`0.08em`) delivers high legibility on dark glass substrates.\n\n## Layout & Spacing\n\n### Architectural Grid Philosophy\nThe platform utilizes a structured 12-column fluid grid system on desktop that reflows to an 8-column layout on tablet and a 4-column column layout on mobile devices. Layouts prioritize generous lateral margins to present vehicle silhouettes with gallery-grade composure.\n\n### Responsive Breakpoints & Reflow Mechanics\n- **Desktop (1280px and above):** 12 columns, `1.5rem` gutters, `3rem` margins. Three-column vehicle showcase grids, persistent sticky configuration sidebars, and dual-pane vehicle comparative analytics.\n- **Tablet (768px – 1279px):** 8 columns, `1rem` gutters, `2rem` margins. Two-column inventory cards with collapsable horizontal parameter carousels.\n- **Mobile (320px – 767px):** 4 columns, `0.75rem` gutters, `1rem` margins. Single-card focal feeds with anchored, bottom-docked quick-action trays.\n\n### Spatial Rhythm Principles\n- Component internal paddings rely strictly on predictable increments: `space-sm` (8px) for micro badges, `space-md` (16px) for form fields and list items, and `space-lg` (24px) for vehicle card enclosures.\n- Section intervals step up to `space-xl` (40px) or `3rem` to separate structural modules (e.g., Performance Specs from Trims & Options), preventing visual clutter.\n\n## Elevation & Depth\n\n### Atmospheric Glassmorphism & Z-Axis Stratification\nDepth is communicated through semi-transparent physical tiers, metallic back-surface diffusion, and directional rim lighting rather than standard murky black drop shadows.\n\n- **Base Layer (Ground - z0):** Deep Obsidian (`#0B132B`) solid surface featuring an ultra-subtle radial gradient tinted with Electric Cobalt at `12%` opacity behind the primary vehicle hero presentation.\n- **Showcase Cards & Structural Tiers (z1):** Background color of `#1C2541` at `75%` opacity, paired with an extensive backdrop blur of `24px` and a uniform `1px` perimeter stroke (`#94A3B8` at `15%` opacity). Shadows are soft and diffused: `0 12px 32px -4px rgba(3, 7, 18, 0.45)`.\n- **Floating Controls, Modals & Navigation Headers (z2):** Background color of `#0B132B` at `80%` opacity, `32px` backdrop blur, with an accented top-edge highlight stroke (`linear-gradient(90deg, rgba(58, 134, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%)`).\n- **Interactive Focus & Active State Aura (z-active):** Electric Cobalt photon glow: `0 0 24px 0 rgba(0, 102, 255, 0.35)`. Hovering vehicle showcase cards induces an ambient lift: the bottom shadow increases to `0 20px 40px -8px rgba(0, 102, 255, 0.2)` while the border increases to `40%` opacity.\n\n## Shapes\n\n### Aerodynamic Curvature & Geometry\nThe shape system matches the clean aerodynamic curves of automotive chassis engineering:\n\n- **Roundedness Scale:** Standard elements use roundedness level `2` (`0.5rem` / 8px).\n- **Large Vehicle Cards & Glass Displays:** Elevated to `rounded-xl` (`1.5rem` / 24px) to frame wide vehicle photography cleanly without clipping rim details.\n- **Inputs, Badges & Small Action Components:** Utilize `0.5rem` (8px) for structural reliability and clear touch targets.\n- **Status Pills, Quick Filters & Trim Selectors:** Implement continuous full pill radius (`9999px`) to create high-contrast interaction tags against block-structured vehicle spec tables.\n\n## Components\n\n### 1. Vehicle Showcase Cards (The Core Showroom Tile)\n- **Container:** `rounded-xl` (24px) with glassmorphism surface (`rgba(28, 37, 65, 0.7)`), backdrop-filter `blur(20px)`, and `1px` titanium border (`rgba(148, 163, 184, 0.2)`).\n- **Header Structure:** Model name in Pure Titanium `headline-sm`, subtitle/trim in Brushed Platinum `body-sm`. Top-right corner anchors floating fuel/EV badge.\n- **Imagery:** Aspect ratio 16:9 vehicle angle with transparent stage shadow. Hover activates a smooth 1.04x scale transition over 400ms ease-out.\n- **Spec Telemetry Strip:** 3-column micro-grid showing Acceleration (e.g., \"3.4s\"), Top Speed (\"260 km/h\"), and Powertrain (\"AWD EV\") rendered in `label-numeric-metric` with `body-sm` muted labels.\n- **Footer Section:** Primary price in Pure Titanium `headline-md` paired with monthly financing calculation in `body-sm`. Right side features primary \"Inspect Vehicle\" icon-button.\n\n### 2. Buttons & Drivers\n- **Primary Kinetic CTA:** Electric Cobalt background (`#0066FF`), Pure Titanium text, `rounded-md` (8px), padding `12px 24px`. Hover triggers transition to Hyperion Neon Blue (`#3A86FF`) accompanied by an outer photonic glow `0 0 20px rgba(0, 102, 255, 0.4)`.\n- **Secondary Glass CTA:** Translucent base (`rgba(255, 255, 255, 0.05)`), `1px` border (`rgba(255, 255, 255, 0.2)`), Pure Titanium text. Hover transitions to `rgba(255, 255, 255, 0.12)` with border tint shift to Neon Blue.\n- **Destructive / Cancellation:** Transparent base with hairline Crimson outline (`rgba(239, 68, 68, 0.4)`), shifting to solid Crimson wash on activation.\n\n### 3. Badges & Chips\n- **EV & Certified Badges:** Pill-shaped (`rounded-full`), padding `4px 10px`, typography `label-badge`. Green EV badge uses translucent base (`rgba(16, 185, 129, 0.15)`) with pure Emerald text and `1px` matching border.\n- **Filter Chips:** Pill shape with `#1C2541` surface, `1px` stroke `#2A3656`. Active state shifts surface to Electric Cobalt (`#0066FF`) with Titanium typography.\n\n### 4. Input Fields & Search Bars\n- **Cockpit Input Frame:** Darkened base (`rgba(11, 19, 43, 0.85)`), `1px` border (`#2A3656`), `rounded-md` (8px), padding `12px 16px`. Placeholder text in Brushed Platinum (`#94A3B8`).\n- **Active / Focused States:** Border shifts to pure Electric Cobalt with an exterior focus ring (`0 0 0 2px rgba(0, 102, 255, 0.25)`).\n- **Search Header Bar:** Integrated search incorporating multi-parameter dropdowns (Make, Model, Price Range) styled as a single continuous glass deck with hairline interior vertical dividers.\n\n### 5. Selection Controls (Checkboxes & Radios)\n- **Checkboxes:** Square with `rounded-sm` (4px), base `#1C2541`, `1px` border `#475569`. Selected state fills with `#0066FF`, showcasing an angled titanium checkmark icon.\n- **Radio Buttons:** Concentric circular ring with smooth animated interior cobalt bead on activation.\n\n### 6. Specialized Automotive Modules\n- **Interactive 360 Exterior Viewport:** Glass-framed viewer with floating bottom scrub controller, active angle indicator pills, and full-screen camera expansion CTA.\n- **Finance Calculator Slider:** Custom track using a 4px brushed slate rail, filled progress span in Electric Cobalt, and a circular metallic chrome grab-handle with an energetic blue core.",
+        "colorVariant": "FIDELITY",
+        "overridePrimaryColor": "#0066ff",
+        "overrideSecondaryColor": "#3a86ff",
+        "overrideTertiaryColor": "#94a3b8",
+        "overrideNeutralColor": "#0b132b",
+        "spacingScale": 2,
+        "typography": {
+          "display-hero": {
+            "fontFamily": "Outfit",
+            "fontSize": "56px",
+            "fontWeight": "800",
+            "lineHeight": "64px",
+            "letterSpacing": "-0.03em"
+          },
+          "headline-xl": {
+            "fontFamily": "Outfit",
+            "fontSize": "40px",
+            "fontWeight": "700",
+            "lineHeight": "48px",
+            "letterSpacing": "-0.02em"
+          },
+          "body-lg": {
+            "fontFamily": "Outfit",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "letterSpacing": "0em"
+          },
+          "body-xl": {
+            "fontFamily": "Outfit",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "28px",
+            "letterSpacing": "0em"
+          },
+          "display-hero-mobile": {
+            "fontFamily": "Outfit",
+            "fontSize": "38px",
+            "fontWeight": "800",
+            "lineHeight": "44px",
+            "letterSpacing": "-0.02em"
+          },
+          "label-numeric-metric": {
+            "fontFamily": "Outfit",
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "lineHeight": "32px",
+            "letterSpacing": "-0.02em"
+          },
+          "headline-xl-mobile": {
+            "fontFamily": "Outfit",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "lineHeight": "38px",
+            "letterSpacing": "-0.02em"
+          },
+          "headline-lg-mobile": {
+            "fontFamily": "Outfit",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "lineHeight": "32px",
+            "letterSpacing": "-0.01em"
+          },
+          "body-md": {
+            "fontFamily": "Outfit",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "0.01em"
+          },
+          "label-btn": {
+            "fontFamily": "Outfit",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "lineHeight": "20px",
+            "letterSpacing": "0.03em"
+          },
+          "body-sm": {
+            "fontFamily": "Outfit",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "lineHeight": "16px",
+            "letterSpacing": "0.01em"
+          },
+          "label-badge": {
+            "fontFamily": "Outfit",
+            "fontSize": "11px",
+            "fontWeight": "700",
+            "lineHeight": "14px",
+            "letterSpacing": "0.08em"
+          },
+          "headline-md": {
+            "fontFamily": "Outfit",
+            "fontSize": "24px",
+            "fontWeight": "600",
+            "lineHeight": "32px",
+            "letterSpacing": "-0.01em"
+          },
+          "headline-lg": {
+            "fontFamily": "Outfit",
+            "fontSize": "32px",
+            "fontWeight": "600",
+            "lineHeight": "40px",
+            "letterSpacing": "-0.01em"
+          },
+          "headline-sm": {
+            "fontFamily": "Outfit",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "lineHeight": "28px",
+            "letterSpacing": "0em"
+          }
+        },
+        "spacing": {
+          "space-xs": "0.25rem",
+          "space-xl": "2.5rem",
+          "space-lg": "1.5rem",
+          "space-sm": "0.5rem",
+          "margin": "3rem",
+          "space-md": "1rem",
+          "gutter-mobile": "0.75rem",
+          "margin-mobile": "1rem",
+          "gutter": "1.5rem"
+        },
+        "headlineFontFamily": "Outfit",
+        "bodyFontFamily": "Outfit",
+        "labelFontFamily": "Outfit"
+      }
+    },
+    "version": "1"
+  }
+}
