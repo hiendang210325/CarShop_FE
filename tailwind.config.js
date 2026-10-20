@@ -5,6 +5,17 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    borderRadius: {
+      'none': '0px',
+      'sm': '8px',
+      'DEFAULT': '8px',
+      'md': '8px',
+      'lg': '8px',
+      'xl': '10px',
+      '2xl': '10px',
+      '3xl': '10px',
+      'full': '10px',
+    },
     extend: {
       colors: {
         brand: {
@@ -31,10 +42,6 @@ export default {
         'card-hover': '0 12px 32px -4px rgba(15, 23, 42, 0.08), 0 4px 12px -2px rgba(15, 23, 42, 0.03)',
         'floating': '0 10px 25px -5px rgba(15, 23, 42, 0.08)',
         'glow': '0 0 24px rgba(0, 102, 255, 0.28)',
-      },
-      borderRadius: {
-        'xl': '1rem',
-        '2xl': '1.5rem',
       },
     },
   },

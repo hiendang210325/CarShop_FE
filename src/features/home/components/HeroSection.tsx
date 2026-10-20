@@ -90,7 +90,7 @@ export const HeroSection: React.FC = () => {
           {/* Right Column: Double-Bezel Showcase Enclosure (Doppelrand Architecture) */}
           <div className="lg:col-span-6 relative">
             {/* Outer Shell: Machine-finished Titanium Bezel */}
-            <div className="relative p-2 rounded-[14px] bg-gradient-to-b from-white/[0.09] via-white/[0.03] to-transparent border border-white/10 shadow-[0_25px_80px_rgba(0,0,0,0.65)] backdrop-blur-md group/shell transition-all duration-500 hover:border-cyan-500/30">
+            <div className="relative p-2 rounded-[10px] bg-gradient-to-b from-white/[0.09] via-white/[0.03] to-transparent border border-white/10 shadow-[0_25px_80px_rgba(0,0,0,0.65)] backdrop-blur-md group/shell transition-all duration-500 hover:border-cyan-500/30">
               {/* Inner Core: The Interactive Showcase Container */}
               <Link
                 to="/cars/taycan"

@@ -163,9 +163,10 @@ export const SearchFilterDeck: React.FC<SearchFilterDeckProps> = ({ onSearch }) 
 
   return (
     <div id="search" className="relative z-30">
-      {/* 1. Main Search & Filter Card (Centered in max-w-7xl) */}
+      {/* 1. Main Search & Filter Card (Centered in max-w-7xl with Double-Bezel Architecture) */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-12 sm:-mt-16">
-        <div className="bg-white rounded-[10px] p-5 sm:p-6 shadow-[0_20px_50px_rgba(8,13,25,0.08)] border border-slate-200/80 backdrop-blur-md">
+        <div className="p-1.5 rounded-[10px] bg-white/60 border border-slate-200/90 shadow-[0_30px_70px_rgba(8,13,25,0.12)] backdrop-blur-md">
+          <div className="bg-white rounded-[8px] p-5 sm:p-6 border border-slate-200/80 shadow-[inset_0_1px_1px_rgba(255,255,255,0.9)]">
           {/* Top Category Segmented Tabs */}
           <div className="flex flex-wrap items-center justify-between gap-3 pb-4 mb-4 border-b border-slate-100">
             <div className="inline-flex p-1 rounded-[10px] bg-slate-100/90 border border-slate-200/60">
@@ -308,19 +309,24 @@ export const SearchFilterDeck: React.FC<SearchFilterDeckProps> = ({ onSearch }) 
                 </select>
               </div>
 
-              {/* 5. Submit Button */}
+              {/* 5. Submit Button (Nested Button-in-Button Architecture) */}
               <button
                 type="submit"
-                className="min-h-[50px] px-4 rounded-[10px] bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs sm:text-sm flex items-center justify-center gap-2 shadow-xs hover:shadow-blue-600/25 transition-all cursor-pointer"
+                className="min-h-[50px] pl-4 pr-2 rounded-[10px] bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs sm:text-sm flex items-center justify-between shadow-lg shadow-blue-600/25 transition-all duration-300 cursor-pointer group active:scale-[0.98]"
               >
-                <Search size={15} />
-                <span>Tìm Xe Ngay</span>
-                <ArrowRight size={14} className="hidden lg:inline" />
+                <div className="flex items-center gap-2">
+                  <Search size={15} />
+                  <span>Tìm Xe Ngay</span>
+                </div>
+                <span className="w-8 h-8 rounded-[8px] bg-white/20 backdrop-blur-xs flex items-center justify-center text-white group-hover:translate-x-0.5 transition-transform duration-300">
+                  <ArrowRight size={14} />
+                </span>
               </button>
             </div>
           </form>
         </div>
       </div>
+    </div>
 
       {/* 2. DEDICATED PARTNER BRANDS SECTION (Riêng 1 Section, Tiêu đề căn giữa in đậm phóng to, Logo to tự nhiên, 2 border trên dưới nhạt, khoảng cách phân định rõ ràng) */}
       <section className="w-full overflow-hidden mt-14 sm:mt-20 pt-12 pb-12 sm:pt-16 sm:pb-16 bg-white relative border-t border-b border-slate-200/80">

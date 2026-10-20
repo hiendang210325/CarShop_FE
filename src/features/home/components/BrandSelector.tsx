@@ -1,11 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
-  Car,
   ChevronRight,
-  ShieldCheck,
-  Zap,
-  Sliders,
   Sparkles,
 } from 'lucide-react';
 import { ROUTES } from '../../../constants/routes';
@@ -16,45 +12,45 @@ export const BrandSelector: React.FC = () => {
   const luxuryBrands = [
     {
       name: 'Porsche',
-      origin: 'Stuttgart, Đức',
-      count: '14 xe có sẵn',
-      badge: 'THỂ THAO ĐỈNH CAO',
-      image: 'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=500&auto=format&fit=crop&q=80',
+      origin: 'Đức',
+      count: '14 xe sẵn có',
+      tagline: 'Biểu tượng thể thao',
+      image: 'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=600&auto=format&fit=crop&q=80',
     },
     {
       name: 'Mercedes-Benz',
-      origin: 'Stuttgart, Đức',
-      count: '32 xe có sẵn',
-      badge: 'SANG TRỌNG BẬC NHẤT',
-      image: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=500&auto=format&fit=crop&q=80',
+      origin: 'Đức',
+      count: '32 xe sẵn có',
+      tagline: 'Sang trọng & Đẳng cấp',
+      image: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=600&auto=format&fit=crop&q=80',
     },
     {
       name: 'BMW',
-      origin: 'Munich, Đức',
-      count: '21 xe có sẵn',
-      badge: 'CẢM GIÁC LÁI THUẦN CHẤT',
-      image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500&auto=format&fit=crop&q=80',
+      origin: 'Đức',
+      count: '21 xe sẵn có',
+      tagline: 'Cảm giác lái thuần khiết',
+      image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&auto=format&fit=crop&q=80',
     },
     {
       name: 'Lexus',
-      origin: 'Nagoya, Nhật Bản',
-      count: '16 xe có sẵn',
-      badge: 'ÊM ÁI & BỀN BỈ HOÀN HẢO',
-      image: 'https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=500&auto=format&fit=crop&q=80',
+      origin: 'Nhật Bản',
+      count: '16 xe sẵn có',
+      tagline: 'Bền bỉ & Êm ái tuyệt đối',
+      image: 'https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=600&auto=format&fit=crop&q=80',
     },
     {
       name: 'Audi',
-      origin: 'Ingolstadt, Đức',
-      count: '12 xe có sẵn',
-      badge: 'DẪN ĐỘNG QUATTRO LỪNG DANH',
-      image: 'https://images.unsplash.com/photo-1541348263662-e0c8de4259ba?w=500&auto=format&fit=crop&q=80',
+      origin: 'Đức',
+      count: '12 xe sẵn có',
+      tagline: 'Công nghệ Quattro đỉnh cao',
+      image: 'https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=600&auto=format&fit=crop&q=80',
     },
     {
       name: 'VinFast',
-      origin: 'Hải Phòng, Việt Nam',
-      count: '15 xe có sẵn',
-      badge: 'XE ĐIỆN EV TƯƠNG LAI',
-      image: 'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=500&auto=format&fit=crop&q=80',
+      origin: 'Việt Nam',
+      count: '15 xe sẵn có',
+      tagline: 'Tiên phong xe điện thông minh',
+      image: 'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=600&auto=format&fit=crop&q=80',
     },
   ];
 
@@ -63,70 +59,82 @@ export const BrandSelector: React.FC = () => {
   };
 
   return (
-    <section id="brands" className="py-16 sm:py-20 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-10">
-        {/* Section Header */}
-        <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-100 pb-6">
-          <div className="space-y-1.5">
-            <div className="text-[11px] font-bold text-blue-600 uppercase tracking-widest flex items-center gap-1.5">
-              <Sparkles size={13} />
-              <span>THƯƠNG HIỆU TUYỂN CHỌN</span>
-            </div>
-            <h2 className="font-display font-extrabold text-2xl sm:text-3xl text-slate-900 tracking-tight">
-              Khám Phá Các Hãng Xe Thượng Lưu
-            </h2>
-            <p className="text-xs sm:text-sm text-slate-500">
-              Chọn thương hiệu yêu thích để duyệt nhanh các dòng xe sẵn sàng bàn giao tại showroom.
-            </p>
+    <section id="brands" className="py-20 sm:py-24 bg-white relative">
+      <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-12">
+        {/* Section Header Centered */}
+        <div className="text-center max-w-3xl mx-auto space-y-3">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-[8px] text-[10px] uppercase tracking-[0.2em] font-extrabold text-blue-600 bg-blue-50/90 border border-blue-200/80 shadow-2xs">
+            <Sparkles size={11} className="text-blue-600" />
+            <span>HÃNG XE THƯỢNG LƯU</span>
           </div>
 
-          <button
-            onClick={() => navigate(ROUTES.BUY_CAR)}
-            className="inline-flex items-center gap-1.5 text-xs font-bold text-blue-600 hover:text-blue-700 transition-colors cursor-pointer self-start md:self-auto"
-          >
-            <span>Xem tất cả thương hiệu</span>
-            <ChevronRight size={14} />
-          </button>
+          <h2 className="font-display font-black text-2xl sm:text-3xl lg:text-4xl text-slate-900 tracking-tight">
+            Khám Phá Các Thương Hiệu Danh Tiếng
+          </h2>
+
+          <p className="text-xs sm:text-sm text-slate-500 max-w-xl mx-auto font-normal leading-relaxed">
+            Trải nghiệm các thương hiệu xe sang hàng đầu thế giới được kiểm định nghiêm ngặt 176 hạng mục, sẵn sàng bàn giao tại showroom.
+          </p>
         </div>
 
         {/* 6 Luxury Brand Cards Grid */}
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3.5 sm:gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 sm:gap-5">
           {luxuryBrands.map((brand, idx) => (
             <div
               key={idx}
               onClick={() => handleSelectBrand(brand.name)}
-              className="bg-slate-50/60 hover:bg-white rounded-[10px] border border-slate-200/80 hover:border-blue-400 p-4 transition-all duration-300 hover:shadow-md group cursor-pointer flex flex-col justify-between"
+              className="rounded-[10px] bg-white border border-slate-200/90 hover:border-blue-500/40 hover:shadow-xl transition-all duration-300 shadow-2xs group cursor-pointer flex flex-col justify-between overflow-hidden"
             >
-              <div className="space-y-3">
-                {/* Brand Thumbnail */}
-                <div className="w-full aspect-[4/3] rounded-[8px] overflow-hidden bg-slate-200 relative">
+              <div>
+                {/* Brand Image Frame */}
+                <div className="w-full aspect-[4/3] overflow-hidden bg-slate-950 relative">
                   <img
                     src={brand.image}
                     alt={brand.name}
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                    className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-700 ease-out"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent" />
-                  <span className="absolute bottom-2 left-2 text-[9px] font-bold text-white bg-slate-900/80 px-1.5 py-0.5 rounded-[4px]">
-                    {brand.name}
+                  <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-transparent to-transparent" />
+
+                  {/* Clean Origin Chip */}
+                  <span className="absolute bottom-2 left-2 text-[10px] font-bold text-white bg-slate-950/70 backdrop-blur-md px-2 py-0.5 rounded-[4px] border border-white/10">
+                    {brand.origin}
                   </span>
                 </div>
 
-                <div>
-                  <h3 className="font-display font-bold text-sm text-slate-900 group-hover:text-blue-600 transition-colors">
+                {/* Content */}
+                <div className="p-3.5 space-y-1">
+                  <h3 className="font-display font-extrabold text-sm sm:text-base text-slate-900 group-hover:text-blue-600 transition-colors tracking-tight truncate">
                     {brand.name}
                   </h3>
-                  <p className="text-[11px] text-slate-400 mt-0.5">
-                    {brand.origin}
+                  <p className="text-[11px] text-slate-400 font-medium line-clamp-1 leading-snug">
+                    {brand.tagline}
                   </p>
                 </div>
               </div>
 
-              <div className="pt-3 mt-3 border-t border-slate-100 flex items-center justify-between text-[11px]">
-                <span className="text-slate-500 font-semibold">{brand.count}</span>
-                <ChevronRight size={13} className="text-slate-400 group-hover:text-blue-600 group-hover:translate-x-0.5 transition-all" />
+              {/* Footer */}
+              <div className="p-3.5 pt-2 border-t border-slate-100 flex items-center justify-between text-[11px]">
+                <span className="text-blue-600 font-bold">
+                  {brand.count}
+                </span>
+                <span className="w-5 h-5 rounded-full bg-slate-100 group-hover:bg-blue-600 group-hover:text-white flex items-center justify-center text-slate-400 transition-colors">
+                  <ChevronRight size={11} className="group-hover:translate-x-0.5 transition-transform" />
+                </span>
               </div>
             </div>
           ))}
+        </div>
+
+        {/* Centered Action Button */}
+        <div className="flex justify-center pt-2">
+          <button
+            type="button"
+            onClick={() => navigate(ROUTES.BUY_CAR)}
+            className="inline-flex items-center gap-2 px-6 py-2.5 rounded-[10px] bg-slate-50 hover:bg-blue-50 border border-slate-200/80 hover:border-blue-200 text-xs font-bold text-slate-700 hover:text-blue-600 transition-all cursor-pointer group active:scale-[0.98] shadow-xs"
+          >
+            <span>Xem tất cả thương hiệu</span>
+            <ChevronRight size={13} className="group-hover:translate-x-0.5 transition-transform" />
+          </button>
         </div>
       </div>
     </section>

@@ -77,6 +77,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '26.5 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&auto=format&fit=crop&q=80',
     description: 'Thế hệ mới trang bị gói AMG Line, đèn Digital Light cao cấp, màn hình cảm ứng 11.9 inch và camera 360 độ.',
+    detailUrl: '/cars/mercedes-glc300',
   },
   {
     id: 'bmw-530i',
@@ -99,6 +100,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '24.2 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&auto=format&fit=crop&q=80',
     description: 'Sedan thể thao đẳng cấp với bodykit M Sport, phanh thể thao, dàn âm thanh Harman Kardon 16 loa và đèn Laserlight.',
+    detailUrl: '/cars/bmw-530i',
   },
   {
     id: 'vinfast-vf9',
@@ -121,6 +123,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '18.5 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&auto=format&fit=crop&q=80',
     description: 'SUV điện 6 chỗ ghế cơ trưởng chuẩn thương gia, trần kính toàn cảnh panoramic, trợ lái tự hành ADAS Level 2.',
+    detailUrl: '/cars/vinfast-vf9',
   },
   {
     id: 'audi-q7',
@@ -141,8 +144,9 @@ export const CARS_CATALOG: CarItem[] = [
     priceVND: '2.980 Tỷ',
     priceRaw: 2.98,
     monthlyEstimate: '27.5 Tr/tháng',
-    imageUrl: 'https://images.unsplash.com/photo-1541348263662-e0c8de4259ba?w=800&auto=format&fit=crop&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800&auto=format&fit=crop&q=80',
     description: 'SUV 7 chỗ nhập khẩu nguyên chiếc Đức, dẫn động 4 bánh toàn thời gian Quattro lừng danh, đèn Matrix LED thông minh.',
+    detailUrl: '/cars/audi-q7',
   },
   {
     id: 'lexus-rx350',
@@ -165,6 +169,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '39.5 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?w=800&auto=format&fit=crop&q=80',
     description: 'Nội thất da Semi-Aniline êm ái hàng đầu, 21 loa Mark Levinson đỉnh cao, gói an toàn chủ động LSS+ 3.0.',
+    detailUrl: '/cars/lexus-rx350',
   },
   {
     id: 'porsche-macan',
@@ -187,6 +192,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '46.2 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&auto=format&fit=crop&q=80',
     description: 'Bản GTS mạnh mẽ nhất dòng Macan chạy xăng, ống xả thể thao Sport Exhaust gầm vang, mâm RS Spyder 21 inch.',
+    detailUrl: '/cars/porsche-macan',
   },
   {
     id: 'mercedes-maybach-s450',
@@ -209,6 +215,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '72.5 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&auto=format&fit=crop&q=80',
     description: 'Khoang thương gia phía sau với đệm bắp chân massage đá nóng, tủ lạnh mini Champagne và âm thanh 4D Burmester High-End.',
+    detailUrl: '/cars/mercedes-maybach-s450',
   },
   {
     id: 'porsche-911-carrera',
@@ -231,6 +238,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '78.5 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&auto=format&fit=crop&q=80',
     description: 'Biểu tượng xe thể thao với khả năng vận hành đỉnh cao, nội thất da cao cấp và gói thể thao Sport Chrono Package.',
+    detailUrl: '/cars/porsche-911-carrera',
   },
   {
     id: 'lexus-lx600-vip',
@@ -253,6 +261,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '85.0 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&auto=format&fit=crop&q=80',
     description: 'Chuyên cơ mặt đất 4 chỗ ngồi độc bản, massage Ottoman thư giãn và cách âm tuyệt đối với kính 2 lớp cao cấp.',
+    detailUrl: '/cars/lexus-lx600-vip',
   },
   {
     id: 'bmw-m4-competition',
@@ -275,6 +284,7 @@ export const CARS_CATALOG: CarItem[] = [
     monthlyEstimate: '52.0 Tr/tháng',
     imageUrl: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&auto=format&fit=crop&q=80',
     description: 'Cỗ máy tốc độ thuần chất BMW M Power, hệ dẫn động M xDrive thông minh tùy biến dẫn động cầu sau và phanh gốm carbon.',
+    detailUrl: '/cars/bmw-m4-competition',
   },
 ];
 

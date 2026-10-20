@@ -91,19 +91,20 @@ export const AppRoutes: React.FC = () => {
         <Route path="/sell-car" element={<SellCarPage />} />
         <Route path="/thu-cu-doi-moi" element={<SellCarPage />} />
 
-        <Route path={ROUTES.VALUATION} element={<ValuationPage />} />
-        <Route path="/valuation" element={<ValuationPage />} />
-        <Route path="/dinh-gia-xe" element={<ValuationPage />} />
+        <Route path={ROUTES.VALUATION} element={<PromotionsPage />} />
+        <Route path="/valuation" element={<PromotionsPage />} />
+        <Route path="/dinh-gia-xe" element={<PromotionsPage />} />
 
         <Route path={ROUTES.PROMOTIONS} element={<PromotionsPage />} />
         <Route path="/promotions" element={<PromotionsPage />} />
         <Route path="/bang-gia" element={<PromotionsPage />} />
         <Route path="/khuyen-mai" element={<PromotionsPage />} />
 
-        {/* Vehicle Detail Page: Porsche Taycan 4S Cross Turismo */}
+        {/* Vehicle Detail Page: Dynamic Car Detail with Brand Logo Marquee Stream */}
         <Route path={ROUTES.CAR_DETAILS} element={<PorscheTaycanDetailPage />} />
         <Route path="/cars/taycan" element={<PorscheTaycanDetailPage />} />
         <Route path="/car-details" element={<PorscheTaycanDetailPage />} />
+        <Route path="/chi-tiet-xe/:id" element={<PorscheTaycanDetailPage />} />
 
         {/* News & Magazine Page: CarShop - Tin Tức, Đánh Giá & Cẩm Nang Ô Tô */}
         <Route path={ROUTES.NEWS} element={<NewsPage />} />

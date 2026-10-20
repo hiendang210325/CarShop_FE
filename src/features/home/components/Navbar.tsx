@@ -38,16 +38,14 @@ export const Navbar: React.FC = () => {
   // Active state helpers
   const isBuyCar = location.pathname.startsWith('/mua-xe') || location.pathname.startsWith('/buy-car');
   const isSellCar = location.pathname.startsWith('/ban-xe') || location.pathname.startsWith('/sell-car');
-  const isValuation = location.pathname.startsWith('/dinh-gia') || location.pathname.startsWith('/valuation');
-  const isPromotions = location.pathname.startsWith('/uu-dai') || location.pathname.startsWith('/promotions') || location.pathname.startsWith('/bang-gia');
+  const isPromotions = location.pathname.startsWith('/uu-dai') || location.pathname.startsWith('/promotions') || location.pathname.startsWith('/bang-gia') || location.pathname.startsWith('/dinh-gia') || location.pathname.startsWith('/valuation');
   const isNews = location.pathname.startsWith('/news') || location.pathname.startsWith('/tin-tuc');
   const isTestDrive = location.pathname.startsWith('/test-drive') || location.pathname.startsWith('/lai-thu');
 
   const navItems = [
     { label: 'Mua xe', path: ROUTES.BUY_CAR, active: isBuyCar },
     { label: 'Bán xe', path: ROUTES.SELL_CAR, active: isSellCar },
-    { label: 'Định giá AI', path: ROUTES.VALUATION, active: isValuation },
-    { label: 'Ưu đãi', path: ROUTES.PROMOTIONS, active: isPromotions },
+    { label: 'Ưu đãi & Khuyến mãi', path: ROUTES.PROMOTIONS, active: isPromotions },
     { label: 'Đặt lịch lái thử', path: ROUTES.TEST_DRIVE, active: isTestDrive },
     { label: 'Tin tức', path: ROUTES.NEWS, active: isNews },
   ];

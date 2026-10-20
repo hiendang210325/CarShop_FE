@@ -97,11 +97,11 @@ export const Footer: React.FC = () => {
             <Link to={ROUTES.SELL_CAR} className="hover:text-blue-600 transition-colors">
               Bán Xe & Thu Mua
             </Link>
-            <Link to={ROUTES.VALUATION} className="hover:text-blue-600 transition-colors">
-              Định Giá Xe AI
-            </Link>
             <Link to={ROUTES.PROMOTIONS} className="hover:text-blue-600 transition-colors">
-              Ưu Đãi & Bảng Giá
+              Ưu Đãi & Khuyến Mãi
+            </Link>
+            <Link to={ROUTES.TEST_DRIVE} className="hover:text-blue-600 transition-colors">
+              Đặt Lịch Lái Thử
             </Link>
             <Link to={ROUTES.NEWS} className="hover:text-blue-600 transition-colors">
               Tin Tức Showroom
